@@ -29,3 +29,8 @@ git init 은 신규로 초기화한 저장소이기 때문에 아직 이력 파�
 ```
 git remote add {remote_alias} {remote_url}
 ```
+
+Reference
+- [git-clone](https://git-scm.com/docs/git-clone)
+- [git-init](https://git-scm.com/docs/git-init)
+- [git-remote](https://git-scm.com/docs/git-remote)
