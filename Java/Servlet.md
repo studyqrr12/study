@@ -1,4 +1,4 @@
-# Servlet
+# Java Servlet (javax.servlet.*)
 
 ## Java Servlet 간단 예시
 
